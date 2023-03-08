@@ -8,11 +8,13 @@ Le projet démineur en Java que j'ai réalisé utilise une interface graphique p
 
 Dans le code initial, la grille est une grille 8x8 et comporte une dizaine de mines placé aléatoirement dans celle ci grâce notamment au Random.
 
-[Le projet peut encore être amélioré avec :
-    * des niveaux de difficulté (facile, moyen, difficile, expert)
-    * des tailles différentes en fonction du niveau (8x8, 9x9, 10x10 ou 12x12)
+Le projet peut encore être amélioré avec :  
+
+    * des niveaux de difficulté (facile, moyen, difficile, expert)  
+
+    * des tailles différentes en fonction du niveau (8x8, 9x9, 10x10 ou 12x12)  
+
     * un chronomètre
-]
 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
@@ -21,12 +23,13 @@ Dans le code initial, la grille est une grille 8x8 et comporte une dizaine de mi
 
 Le projet Todo List est une application qui permet aux utilisateurs de gérer et d'organiser leur liste de tâches à faire. 
 
-[Le projet peut encore être amélioré avec :
+Le projet peut encore être amélioré avec :  
+
     * une fonction de recherche de tâches  
 
     * des priorités (faible, normal, haute, urgent)  
-    
+
     * des catégories (cuisine, travail, loiris, etc)
-]
+
 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
