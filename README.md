@@ -1,6 +1,6 @@
 # MiniProjetsPerso-Java
 
-###Projet Démineur
+### Projet Démineur
 *Par Chrystal - Mars 2023*
 
 Le projet démineur en Java est un jeu de plateau classique dans lequel le joueur doit déminer une grille de cases cachées. Le but est de découvrir toutes les cases qui ne contiennent pas de mines, tout en évitant les cases qui en contiennent. Si le joueur découvre une mine, le jeu est terminé.
@@ -17,7 +17,7 @@ Dans le code initial, la grille est une grille 8x8 et comporte une dizaine de mi
 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-###Projet ToDo List
+### Projet ToDo List
 *Par Chrystal - Mars 2023*
 
 Le projet Todo List est une application qui permet aux utilisateurs de gérer et d'organiser leur liste de tâches à faire. 
