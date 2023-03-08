@@ -22,8 +22,10 @@ Dans le code initial, la grille est une grille 8x8 et comporte une dizaine de mi
 Le projet Todo List est une application qui permet aux utilisateurs de gérer et d'organiser leur liste de tâches à faire. 
 
 [Le projet peut encore être amélioré avec :
-    * une fonction de recherche de tâches
-    * des priorités (faible, normal, haute, urgent)
+    * une fonction de recherche de tâches  
+
+    * des priorités (faible, normal, haute, urgent)  
+    
     * des catégories (cuisine, travail, loiris, etc)
 ]
 
