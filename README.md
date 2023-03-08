@@ -1,6 +1,7 @@
 # MiniProjetsPerso-Java
 
-### Projet Démineur *Par Chrystal - Mars 2023*
+### Projet Démineur 
+*Par Chrystal - Mars 2023*
 
 Le projet démineur en Java est un jeu de plateau classique dans lequel le joueur doit déminer une grille de cases cachées. Le but est de découvrir toutes les cases qui ne contiennent pas de mines, tout en évitant les cases qui en contiennent. Si le joueur découvre une mine, le jeu est terminé.
 
